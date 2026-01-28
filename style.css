@@ -125,3 +125,12 @@ footer .small {
   font-size: 0.85em;
   opacity: 0.8;
 }
+footer a {
+  color: white !important;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
