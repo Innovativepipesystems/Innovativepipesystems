@@ -26,6 +26,15 @@ header h1 {
   margin-top: 5px;
   font-size: 1.1em;
 }
+header a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
 
 nav {
   background: #083b6f;
