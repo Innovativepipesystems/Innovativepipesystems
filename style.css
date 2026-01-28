@@ -134,3 +134,16 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+/* Header phone and email white */
+header .tagline a {
+  color: white !important;
+  text-decoration: none !important;
+  font-weight: bold;
+}
+
+/* Footer phone and email white */
+footer a {
+  color: white !important;
+  text-decoration: none !important;
+  font-weight: bold;
+}
